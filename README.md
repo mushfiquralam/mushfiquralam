@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a machine learning project<br>🌱 I’m currently learning Django<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on a Deep Learning project<br>🌱 I’m currently learning Django<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
