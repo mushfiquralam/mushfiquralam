@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Deep Learning project<br>🌱 I’m currently learning Reactjs and Nodejs
+🔭 I’m currently working on a Wordpress plugin for Mevrik<br>🌱 I’m currently learning laravel and advanced DBMS
 
 
 ## 🌐 Socials:
