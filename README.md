@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Wordpress plugin for Mevrik<br>🌱 I’m currently learning laravel and advanced DBMS
+🔭 I’m currently working on some web scraping and data manaipulation projects<br>🌱 I’m currently learning advanced data management
 
 
 ## 🌐 Socials:
